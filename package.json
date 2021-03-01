@@ -18,7 +18,7 @@
     "react-reconciler": "^0.24.0",
     "react-three-fiber": "^4.0.12",
     "scheduler": "^0.18.0",
-    "three": "^0.113.2"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
